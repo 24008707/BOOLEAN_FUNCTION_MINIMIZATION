@@ -70,11 +70,11 @@ Developed by: RegisterNumber:*/ VISAL R    24008707
 **RTL realization**
 ![logic diagram](https://github.com/user-attachments/assets/b1649a3d-5a12-4de4-81e6-b8f82a1c3dd9)
 
-**LOGIC SYMBOL & Truthtable
+**LOGIC SYMBOL & Truthtable**
 ![tabular collum](https://github.com/user-attachments/assets/569793be-c7e0-4f9a-ae86-79ce0451109d)
 ![output table](https://github.com/user-attachments/assets/0fec166c-9abc-4c7b-a190-254f734e594f)
 
-**OUTPUT**
+**OUTPUT:**
 ![output](https://github.com/user-attachments/assets/e62d591c-0bfb-4ceb-8a2e-ee78a37dbba8)
 
 **Result:**
