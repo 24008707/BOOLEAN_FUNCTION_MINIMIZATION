@@ -29,6 +29,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
 module Boolean_min(A,B,C,D,W,X,Y,Z,F1,F2);
 
 input A,B,C,D,W,X,Y,Z;
@@ -63,14 +64,14 @@ assign F2=x6|x7|x8|x9|x10;
 
 endmodule
 
-Developed by: RegisterNumber:*/ VISAL R  24008707
+Developed by: RegisterNumber:*/ VISAL R    24008707
 
 
 **RTL realization**
 ![logic diagram](https://github.com/user-attachments/assets/b1649a3d-5a12-4de4-81e6-b8f82a1c3dd9)
 
 **LOGIC SYMBOL & Truthtable
-![tabular collum](https://github.com/user-attachments/assets/f0598db3-0685-4ee7-a995-ce398e95ce30)
+![tabular collum](https://github.com/user-attachments/assets/569793be-c7e0-4f9a-ae86-79ce0451109d)
 ![output table](https://github.com/user-attachments/assets/0fec166c-9abc-4c7b-a190-254f734e594f)
 
 **OUTPUT**
